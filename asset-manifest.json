@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/rickPage/static/css/main.eed25267.chunk.css",
+    "main.css": "/rickPage/static/css/main.58e6c186.chunk.css",
     "main.js": "/rickPage/static/js/main.3b16497b.chunk.js",
     "main.js.map": "/rickPage/static/js/main.3b16497b.chunk.js.map",
     "runtime-main.js": "/rickPage/static/js/runtime-main.6d3eea9f.js",
@@ -8,7 +8,7 @@
     "static/js/2.f1f3e7c0.chunk.js": "/rickPage/static/js/2.f1f3e7c0.chunk.js",
     "static/js/2.f1f3e7c0.chunk.js.map": "/rickPage/static/js/2.f1f3e7c0.chunk.js.map",
     "index.html": "/rickPage/index.html",
-    "static/css/main.eed25267.chunk.css.map": "/rickPage/static/css/main.eed25267.chunk.css.map",
+    "static/css/main.58e6c186.chunk.css.map": "/rickPage/static/css/main.58e6c186.chunk.css.map",
     "static/js/2.f1f3e7c0.chunk.js.LICENSE.txt": "/rickPage/static/js/2.f1f3e7c0.chunk.js.LICENSE.txt",
     "static/media/rick.2869c53c.mp4": "/rickPage/static/media/rick.2869c53c.mp4",
     "static/media/videoplayback.d29921d4.mp4": "/rickPage/static/media/videoplayback.d29921d4.mp4"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.6d3eea9f.js",
     "static/js/2.f1f3e7c0.chunk.js",
-    "static/css/main.eed25267.chunk.css",
+    "static/css/main.58e6c186.chunk.css",
     "static/js/main.3b16497b.chunk.js"
   ]
 }
