@@ -1,2 +1,2 @@
-# Go to this page at:
+# Go to this page:
 https://cooksen.github.io/rickPage/
